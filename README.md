@@ -17,7 +17,7 @@ Third year computer science student who is eager to learn more through an intern
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-## [My Devpost Portfolio](https://devpost.com/Jaero999?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+## [My Portfolio Website](https://jaedenrotondo.tech)
 ### Hackathons participated in
 - [Fractal Generator for UofT Hacks IX](https://devpost.com/software/fractal-generator-cbw8dj)
   - Using Python a teammate and I created a fractal generator with the help of the Turtle Library
